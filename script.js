@@ -1,3 +1,3 @@
-John = prompt("What is your name ?")
-console.log(John)
-alert("Hello, John! How are you ?")
+name = prompt("What is your name ?")
+alert("Hello," + " " + name + "!" + " " + "How are you ?")
+
